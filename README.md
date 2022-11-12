@@ -6,7 +6,7 @@ Greetings Travelers! Welcome to Extraplanetary Orbital Geologists, as a fledglin
 
 We have prepared some historic real-time measurements from a handful of previous asteroid drilling operations including some of the ways to calculate the costs associated with them and it’ll be up to your team to explore the data and evaluate the capital efficiency of the drill bits used in those operations.
 
-> Can your team determine which well was the most economically drilled? Which drill bit is the most efficient? Can you find any correlations between the columns to better understand how each bit performs? Better yet can you use your findings to make decisions in real-time on when a bit should be abandoned and replaced for future drilling operations?
+> Can your team determine which asteroid was the most economically drilled? Which drill bit is the most efficient? Can you find any correlations between the columns to better understand how each bit performs? Better yet can you use your findings to make decisions in real-time on when a bit should be abandoned and replaced for future drilling operations?
 
 Work together to try and tackle these among many other potential ways to analyze the data to build an application, be it a web app, mobile app, or pure analysis tool to help better understand our drilling data so we can improve our asteroid mining speed, cost and efficiency to infinity and beyond.
 
